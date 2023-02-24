@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Automated Resume Builder
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c698519f-9fbf-4213-8389-785569184446/deploy-status)](https://app.netlify.com/sites/resumejs/deploys)
@@ -33,7 +32,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 # Demo :
 
 Click this [link](https://auto-resume-builder.netlify.app/) to see the demo.
-=======
-# Resume Builder
-
->>>>>>> 541df6dd9030e741ad6bfb1b617abf6933c8bc85
